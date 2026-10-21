@@ -1,0 +1,16 @@
+# Secrets & config
+.env
+.env.*
+*.env
+config.local.php
+
+# Logs & temp
+*.log
+tmp/
+temp/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
